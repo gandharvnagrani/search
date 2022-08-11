@@ -1,4 +1,4 @@
-Google search clone using React.js, TailwindCSS, and HTML.
+# Google search clone using React.js, TailwindCSS, and HTML.
 
 
 
